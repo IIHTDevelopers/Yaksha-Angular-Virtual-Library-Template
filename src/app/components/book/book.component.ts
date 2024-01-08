@@ -20,8 +20,6 @@ export class BookComponent {
   isEditing = false;
   searchKeyword = '';
 
-  constructor() { }
-
   addBook(): void {
   }
 
